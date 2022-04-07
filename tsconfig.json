@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
+    "extends": "./node_modules/gts/tsconfig-google.json",
     "lib": [
       "dom",
       "dom.iterable",
